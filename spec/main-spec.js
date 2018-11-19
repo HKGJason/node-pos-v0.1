@@ -1,4 +1,4 @@
-const printInventory = require('../main/main');
+const printInventory = require('../main/main.js').printInventory;
 
 describe('pos', () => {
     var inputs;
